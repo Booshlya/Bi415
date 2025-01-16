@@ -1,0 +1,7 @@
+Monday	13174
+Sunday	11913
+Thursday	13364
+Wednesday	16621
+Friday	15918
+Saturday	15077
+Tuesday	13933
