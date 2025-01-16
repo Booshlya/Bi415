@@ -17,6 +17,8 @@ Files breakdown:
 
 * reducer_ex2.py - Combiner for EX2
 
+* weekdays.txt - Data for Viz for EX2
+
 * mapper_ex1_adj.py - Mapper for adjusted code for EX2 last part (to generilize code)
 
 * part-r-00000 (3) - Data for Viz for EX4 a)
